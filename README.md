@@ -55,9 +55,14 @@ flutter test
 flutter analyze
 ```
 
-## Resources
+## Troubleshooting
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-- [Flutter Documentation](https://docs.flutter.dev/)
+If you encounter any issues:
+
+1. **Memory issues during build**: Clear cache with `flutter clean`
+2. **Dependency issues**: Run `flutter pub get` again
+3. **Platform-specific issues**: Check the platform-specific requirements in flutter.dev
+
+## Submission
+
+This project is submitted as part of Lab0 assignment for Advanced Mobile Application Development - Flutter course.
