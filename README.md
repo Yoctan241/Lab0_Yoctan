@@ -13,10 +13,11 @@ This project is created as part of Lab0 to verify Flutter development environmen
 ## Features
 
 - Multi-platform support (Android, iOS, Web, Windows, Linux, macOS)
-- Flutter 3.11.0+ SDK
-- Material Design UI with counter application
-- Widget testing setup
-- Linter configuration with flutter_lints
+- Flutter 3.41.1 SDK with Dart 3.11.0
+- Material Design UI with counter application demonstrating state management
+- Comprehensive widget testing with sample unit tests
+- Linter configuration with flutter_lints for code quality
+- Proper project structure following Flutter best practices
 
 ## Project Structure
 
